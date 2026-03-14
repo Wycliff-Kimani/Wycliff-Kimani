@@ -1,13 +1,31 @@
 # Wycliff Kimani
 
-**Software Engineer | AI Model Trainer | Backend Developer | Android Developer**
+**Software Engineer | Backend & AI Systems | Android Developer**
 
-Building production AI systems and mobile applications that solve real problems in agriculture and community development. Specializing in computer vision for crop disease detection and scalable Android solutions.
+I build practical software systems that connect mobile apps, backend services, payments infrastructure, and machine learning models.
 
-### Current Focus
-- AI-powered mobile apps for early crop disease detection using ResNet18 + PyTorch models trained on PlantVillage dataset
-- Full-stack dashboards and Android tools for agriculture and church community management
-- Backend systems and model deployment for agro-tech and social impact projects
+My work focuses on building reliable systems that operate in real environments — from AI-powered diagnostics to payment-driven automation and operational dashboards.
+
+Current Work
+
+Rugano — prepaid smart door access system for rental properties.
+Tenants pay rent via M-Pesa and receive door access time tied to payment. Built with FastAPI, PostgreSQL and payment automation logic.
+
+Backend systems and automation platforms using FastAPI, Supabase and PostgreSQL for operational dashboards and service APIs.
+
+AI model training and experimentation using PyTorch for computer vision tasks and real-world deployment pipelines.
+
+Engineering Focus
+
+Backend systems and API architecture
+
+Payment integrations (M-Pesa / fintech workflows)
+
+Android applications connected to cloud backends
+
+AI model training and deployment pipelines
+
+Building production systems that bridge software with real-world use
 
 ### Tech Stack
 
