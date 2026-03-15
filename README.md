@@ -7,6 +7,7 @@ I build practical software systems that connect mobile apps, backend services, p
 My work focuses on building reliable systems that operate in real environments — from AI-powered diagnostics to payment-driven automation and operational dashboards.
 
 **Current Work**
+
 Rugano — prepaid smart door access system for rental propertie - Tenants pay rent via M-Pesa and receive door access time tied to payment. Built with FastAPI, PostgreSQL and payment automation logic.
 Backend systems and automation platforms using FastAPI, Supabase and PostgreSQL for operational dashboards and service APIs.
 AI model training and experimentation using PyTorch for computer vision tasks and real-world deployment pipelines.
